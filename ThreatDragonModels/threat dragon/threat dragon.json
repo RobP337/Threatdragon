@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "threat dragon",
+    "owner": "r"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
